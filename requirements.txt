@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain_groq
+streamlit
+langchain_core
+langchain_google_genai
+pypdf
+faiss-cpu
+langchain_huggingface 
+langchain_community.document_loaders
